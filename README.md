@@ -13,6 +13,6 @@ joblib: For saving and loading the trained model.
 Installation
 To get started with the project, clone the repository and install the necessary dependencies:
 
-git clone https://github.com/Pradeepthi1803/Online-Payment-Fraud-Detection-System.git
+git clone https://github.com/Lavanya@6525/Online-Payment-Fraud-Detection-System.git
 cd Online-Payment-Fraud-Detection-System
 pip install -r requirements.txt
